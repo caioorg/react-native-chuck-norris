@@ -6,7 +6,7 @@ This project developed as a form of study using some libraries that the job mark
 
 - React Native CLI by [react-native-cli](https://github.com/react-native-community/cli)
 - React Native by [react-native](https://reactnative.dev/)
-- React Navigation, by [react-navigation](https://reactnavigation.org/)react-router/web/guides/quick-start)
+- React Navigation, by [react-navigation](https://reactnavigation.org/)
 - Styled Components by [styled-components](https://www.styled-components.com/)
 - Fetch API by [fetch](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API/Using_Fetch)
 - Jest by [jest](https://jestjs.io/docs/pt-BR/tutorial-react-native)
