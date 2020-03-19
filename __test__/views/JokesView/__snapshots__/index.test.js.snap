@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flexBasis": 0,
+        "flexDirection": "column",
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "justifyContent": "center",
+        "paddingBottom": 0,
+        "paddingLeft": 20,
+        "paddingRight": 20,
+        "paddingTop": 0,
+        "position": "relative",
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "fontSize": 20,
+          "fontStyle": "italic",
+          "textAlign": "center",
+        },
+      ]
+    }
+  >
+    All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
+  </Text>
+  <View
+    accessible={true}
+    focusable={true}
+    isTVSelectable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#7b5e57",
+        "borderRadius": 50,
+        "bottom": 40,
+        "height": 60,
+        "opacity": 1,
+        "paddingBottom": 20,
+        "paddingLeft": 10,
+        "paddingRight": 10,
+        "paddingTop": 20,
+        "position": "absolute",
+        "right": 20,
+        "width": 150,
+      }
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#fff",
+            "fontSize": 16,
+            "fontWeight": "bold",
+            "textAlign": "center",
+          },
+        ]
+      }
+    >
+      Atualizar
+    </Text>
+  </View>
+</View>
+`;
